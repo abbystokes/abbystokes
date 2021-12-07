@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @abbystokes
 - 👀 I’m interested in data analytics, vizualization, and storytelling
 - 🌱 I’m currently learning SQL and Tableau
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: abikstokes@gmail.com
 
 <!---
