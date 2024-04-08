@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @abbystokes
 - 👀 I’m interested in data science, machine learning, and statistical modeling
-- 🌱 I’m currently learning Machine Learning in healthcare and astrophysics
+- 🌱 I’m currently learning Machine Learning in healthcare and astrophysics, Bayesian statistics, and simulation based inference
 - 📫 How to reach me: abikstokes@gmail.com
 
 <!---
